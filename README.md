@@ -33,6 +33,9 @@
 - Class-11
   - [11-md](Class-11/14-02.md)
   - [11-pdf](Class-11/14-02.pdf)
+- Class-12
+  - [12-md](Class-12/17-02.md)
+  - [12-pdf](Class-12/17-02.pdf)
 
 - Alice-Gao
   - [AG-md](Alice-Gao/notes.md)
