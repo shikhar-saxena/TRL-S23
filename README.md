@@ -39,6 +39,18 @@
 - Class-13
   - [13-md](Class-13/21-02.md)
   - [13-pdf](Class-13/21-02.pdf)
+- Class-14
+  - [14-md](Class-14/14-03.md)
+  - [14-pdf](Class-14/14-03.pdf)
+- Class-15
+  - [15-md](Class-15/21-03.md)
+  - [15-pdf](Class-15/21-03.pdf)
+
+Class 16
+
+- Class-17
+  - [17-md](Class-17/28-03.md)
+  - [17-pdf](Class-17/28-03.pdf)
 
 - Alice-Gao
   - [AG-md](Alice-Gao/notes.md)
